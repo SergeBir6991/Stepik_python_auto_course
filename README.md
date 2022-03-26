@@ -2,3 +2,4 @@
 Homework for the course
 
 Файл в рамках обучения на курсе по автоматизации!
+Sergei Biryukov!
